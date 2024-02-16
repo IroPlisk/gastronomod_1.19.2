@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cbc",
+    "cmc",
+    " j "
+  ],
+  "key": {
+    "b": {
+      "item": "croptopia:butter"
+    },
+    "m": {
+      "item": "rgbdelight:lattep"
+    },
+    "c": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "j": {
+      "item": "rgbdelight:barattolo"
+    }
+  },
+  "result": {
+    "item": "rgbdelight:nutella"
+  }
+}

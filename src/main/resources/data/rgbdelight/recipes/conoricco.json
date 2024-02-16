@@ -1,0 +1,15 @@
+{
+  "type": "thermal:chiller",
+  "ingredients": [
+    {
+      "item": "rgbdelight:gelatoricco"
+    }
+  ],
+  "result": [
+    {
+      "item": "rgbdelight:conoricco",
+      "count": 1
+    }
+  ],
+  "energy": 20000
+}

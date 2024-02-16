@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " ll",
+    " ll"
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "rgbdelight:mozzarella",
+    "count": 2
+  }
+}

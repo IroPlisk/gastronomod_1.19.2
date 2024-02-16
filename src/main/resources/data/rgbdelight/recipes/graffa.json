@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "croptopia:olive_oil"
+    },
+    {
+      "item": "croptopia:butter"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "rgbdelight:farina00"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    }
+  ],
+  "result": {
+    "item": "rgbdelight:graffa",
+    "count": 4
+  }
+}

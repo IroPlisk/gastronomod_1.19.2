@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.example.RGBDelight.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.rgbdelight.refmap.json",
+  "mixins": [
+    "ExtractorTileEntityMixin",
+    "MaceratorTileEntityMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

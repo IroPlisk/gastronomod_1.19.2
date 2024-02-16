@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " p ",
+    "prp",
+    "ppp"
+  ],
+  "key": {
+    "p": {
+      "item": "minecraft:paper"
+    },
+    "r": {
+      "item": "ic2:rubber"
+    }
+  },
+  "result": {
+    "item": "rgbdelight:lattev",
+    "count": 64
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rrp",
+    "bcr",
+    "prp"
+  ],
+  "key": {
+    "r": {
+      "item": "farmersdelight:cooked_rice"
+    },
+    "b": {
+      "item": "croptopia:butter"
+    },
+    "c": {
+      "item": "minecraft:porkchop"
+    },
+    "p": {
+      "item": "rgbdelight:pangrattato"
+    }
+  },
+  "result": {
+    "item": "rgbdelight:arancinoc"
+  }
+}

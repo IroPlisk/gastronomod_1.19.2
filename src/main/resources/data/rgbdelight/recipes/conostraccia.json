@@ -1,0 +1,15 @@
+{
+  "type": "thermal:chiller",
+  "ingredients": [
+    {
+      "item": "rgbdelight:gelatostraccia"
+    }
+  ],
+  "result": [
+    {
+      "item": "rgbdelight:conostraccia",
+      "count": 1
+    }
+  ],
+  "energy": 20000
+}

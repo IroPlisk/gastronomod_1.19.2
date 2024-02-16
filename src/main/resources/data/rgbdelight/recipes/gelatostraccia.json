@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:chocolate"
+    },
+    {
+      "item": "rgbdelight:basegelato"
+    },
+    {
+      "item": "rgbdelight:lattep"
+    }
+  ],
+  "result": {
+    "item": "rgbdelight:gelatostraccia"
+  }
+}

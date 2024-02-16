@@ -1,0 +1,15 @@
+{
+  "type": "thermal:chiller",
+  "ingredients": [
+    {
+      "item": "rgbdelight:lattep"
+    }
+  ],
+  "result": [
+    {
+      "item": "rgbdelight:basegelato",
+      "count": 1
+    }
+  ],
+  "energy": 20000
+}

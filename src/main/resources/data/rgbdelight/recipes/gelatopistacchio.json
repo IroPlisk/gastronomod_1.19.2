@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:peanut"
+    },
+    {
+      "item": "rgbdelight:basegelato"
+    },
+    {
+      "item": "minecraft:green_dye"
+    }
+  ],
+  "result": {
+    "item": "rgbdelight:gelatopistacchio"
+  }
+}

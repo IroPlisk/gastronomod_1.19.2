@@ -1,0 +1,15 @@
+{
+  "type": "thermal:chiller",
+  "ingredients": [
+    {
+      "item": "rgbdelight:gelatofiordi"
+    }
+  ],
+  "result": [
+    {
+      "item": "rgbdelight:conofiordi",
+      "count": 1
+    }
+  ],
+  "energy": 20000
+}

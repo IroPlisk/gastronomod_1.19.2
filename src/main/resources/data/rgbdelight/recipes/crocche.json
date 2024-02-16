@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "croptopia:olive_oil"
+    },
+    {
+      "item": "rgbdelight:pangrattato"
+    },
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "result": {
+    "item": "rgbdelight:crocche",
+    "count": 4
+  }
+}

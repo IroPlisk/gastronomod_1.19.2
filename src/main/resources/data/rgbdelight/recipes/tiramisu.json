@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "czc",
+    "fsf",
+    "cmc"
+  ],
+  "key": {
+    "z": {
+      "item": "minecraft:sugar"
+    },
+    "m": {
+      "item": "rgbdelight:lattep"
+    },
+    "s": {
+      "item": "rgbdelight:shortbreads"
+    },
+    "c": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "f": {
+      "item": "rgbdelight:farina00"
+    }
+  },
+  "result": {
+    "item": "rgbdelight:tiramisu"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rgbdelight:lattep"
+    },
+    {
+      "item": "rgbdelight:basegelato"
+    }
+  ],
+  "result": {
+    "item": "rgbdelight:gelatofiordi"
+  }
+}

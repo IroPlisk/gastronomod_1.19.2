@@ -1,0 +1,15 @@
+{
+  "type": "thermal:chiller",
+  "ingredients": [
+    {
+      "item": "rgbdelight:gelatopistacchio"
+    }
+  ],
+  "result": [
+    {
+      "item": "rgbdelight:conopistacchio",
+      "count": 1
+    }
+  ],
+  "energy": 20000
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " ll",
+    " ll"
+  ],
+  "key": {
+    "l": {
+      "item": "rgbdelight:lattep"
+    }
+  },
+  "result": {
+    "item": "rgbdelight:mozzarella",
+    "count": 2
+  }
+}

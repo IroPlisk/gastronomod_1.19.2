@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " w ",
+    "g g",
+    "ggg"
+  ],
+  "key": {
+    "w": {
+      "item": "minecraft:oak_planks"
+    },
+    "g": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "rgbdelight:barattolo"
+  }
+}
