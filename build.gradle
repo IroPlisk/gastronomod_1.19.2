@@ -20,7 +20,7 @@ plugins {
     id 'org.spongepowered.mixin' version '0.7.+'
 }
 
-version = '1.1'
+version = '1.2'
 group = 'com.IroPlisk.RGBDelight' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'RGBDelight'
 
@@ -149,18 +149,14 @@ dependencies {
     implementation fg.deobf("curse.maven:farmers-delight-398521:5051241")
     implementation fg.deobf("curse.maven:croptopia-delight-932098:4908016")
     implementation fg.deobf("curse.maven:croptopia-additions-702063:4510179")
-    implementation fg.deobf("curse.maven:ic2-classic-242942:4879119")
-    implementation fg.deobf("curse.maven:jei-238222:4712866")
+    implementation fg.deobf("curse.maven:ic2-classic-242942:5230420")
     implementation fg.deobf("curse.maven:pizzacraft-292056:4692284")
     implementation fg.deobf("curse.maven:thermal-expansion-69163:4782929")
     implementation fg.deobf("curse.maven:thermal-foundation-222880:4782926")
     implementation fg.deobf("curse.maven:cofh-core-69162:4801049")
 }
 
-mixin {
-    add sourceSets.main, 'mixins.rgbdelight.refmap.json'
-    config 'mixins.rgbdelight.json'
-}
+
 
 // Example for how to get properties into the manifest for reading at runtime.
 jar {
